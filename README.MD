@@ -1,4 +1,4 @@
-<h1>Description</h1>\
+<h1>Description</h1>
 Profile information and 2 exemplar projects.
 
 <h1>Link</h1>
