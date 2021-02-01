@@ -1,0 +1,58 @@
+* body{
+    background-color: rgb(35, 35, 39);
+}
+.color1{
+    color:green;
+}
+.text_centre {text-align:center;
+}
+
+header {font-weight: bold;
+    font-size: 2em;
+    border-bottom: 2px solid rgb(221, 221, 221) ;
+    color: green;
+}
+
+main {padding:20px;
+    border:2px solid rgb(221, 221, 221);
+    margin-top: 2em;
+    background-color: white;
+}
+
+img {padding: 1em;
+}
+
+.myDetails {
+    margin-top: 1em;
+    font-weight: bold;
+    
+}
+.project {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.bold {
+    font-weight: bold;
+}
+.screenshot {
+    width: 70%;
+}
+.bold {
+    
+    font-weight: bold;
+}
+.moreAbout {
+    font-weight: bold;
+    border:solid rgb(172, 172, 172);
+    margin-top: 1em;
+    padding-right: 0px;
+}
+@media screen and (max-width: 700px) {
+    article {min-width: 200%;
+    }
+    img {margin: auto;
+        min-width: 100%
+    };
+
+}
+
