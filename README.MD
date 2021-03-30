@@ -5,4 +5,4 @@ Profile information and 2 exemplar projects.
 https://klin4994.github.io/My-Profile/index.html
 
 <h1>Screenshot</h1>
-<img src = "assets\Porfolio.PNG" alt = "Screenshot of the portfolio page">
+<img src = "assets\Portfolio.PNG" alt = "Screenshot of the portfolio page">
