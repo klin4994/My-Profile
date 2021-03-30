@@ -1,6 +1,7 @@
 * body{
     background-color: rgb(35, 35, 39);
 }
+
 .color1{
     color:green;
 }
@@ -20,6 +21,7 @@ main {padding:20px;
 }
 
 img {padding: 1em;
+    transition: 1s;
 }
 
 .myDetails {
@@ -35,7 +37,9 @@ img {padding: 1em;
     font-weight: bold;
 }
 .screenshot {
-    width: 70%;
+    transition: 1s;
+    width: 45%;
+    display: inline-block;
 }
 .bold {
     
@@ -47,6 +51,31 @@ img {padding: 1em;
     margin-top: 1em;
     padding-right: 0px;
 }
+.screenshot_full {
+    width: 100%;
+}
+.scrolling-wrapper {
+    background-color: gray;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+.screenshot-size-large {
+    width: 80%;
+}
+.p1-screenshot{
+    width: 40%;
+    height:300px;
+}
+.p2-screenshot{
+    width: 40%;
+    height:300px;
+}
+img:hover {
+    transition: 1s;
+    width: 60%;
+    height:auto;
+  }
 @media screen and (max-width: 700px) {
     article {min-width: 200%;
     }
