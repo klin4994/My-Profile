@@ -50,6 +50,8 @@ img {padding: 1em;
     border:solid rgb(172, 172, 172);
     margin-top: 1em;
     padding-right: 0px;
+    max-height: 150px;
+    overflow: hidden;
 }
 .screenshot_full {
     width: 100%;
